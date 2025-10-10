@@ -3,3 +3,4 @@
 |----------------|----------------|-----------------|------------------------|
 |iammikee06|Bui Minh Khang Nguyen|115265258|bmknguyen@myseneca.ca|
 |codr-sp | Saumya Patel | 129344222 | spatel683@myseneca.ca|
+|leejkc | Lee Cook | 148314248 | lcook16@myseneca.ca|
