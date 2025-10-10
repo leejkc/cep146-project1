@@ -1,1 +1,4 @@
 # OPS146-NAA-Project-Repo
+| GitHub User ID | Full Name      | Student Number  |  seneca E-mail address | 
+|----------------|----------------|-----------------|------------------------|
+|iammikee06|Bui Minh Khang Nguyen|115265258|bmknguyen@myseneca.ca|
