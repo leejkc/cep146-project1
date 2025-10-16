@@ -1,0 +1,32 @@
+﻿OPENAI OSS MODELS
+
+
+PROS:
+1. gpt-oss main purpose is to be a more versatile all-in-one solution 
+   1. more easily editable for your use case
+      1. ^-- open source
+      2. ^-- customisable options
+   2. 3 modes to prioritize speed or accuracy,
+      1. High                 --> deeper and more detailed analysis
+      2. Medium         --> more balanced option between the two
+      3. Low                 --> faster responses for less accuracy sensitive dialogue
+   3. unlike google and some other companies making MedGemma and TxGemma for medical imaging and therapeutic development, openai’s approach is more giving the user a baseline and letting them edit it to fit their use case
+2. access to chain of thought process --> easier debugging
+3. heavy quantization --> doesn’t really matter though if you need a 100k gpu to run the 120b model still
+4. gpt-oss 120b 
+   1. https://huggingface.co/openai/gpt-oss-120b
+   2. made more for larger applications, the 120 billion parameters are a large reason for its higher precision
+5. gpt-oss 20b
+   1. https://huggingface.co/openai/gpt-oss-20b
+   2. more for regular people to edit and run locally, this model is made to be for smaller businesses or individuals
+
+
+CONS:
+1. gpt-oss 20b is relatively still large for its accuracy
+   1. gemma’s lightweight models are only 270 million which makes it available to run on phones with similar accuracy in some use cases
+   2. https://huggingface.co/google/gemma-3-270m-it
+2. gpt-oss 120b 
+   1. this model is very expensive to run, costing either a 100k gpu or a 10k system that constantly moves the model to dram from vram
+   2. this model is relatively accurate for its size in comparison to larger generative text models like deepseek. (120b VS 685b)(more is better)
+      1. models being better by increasing the parameters only increases relatively so much, with the graph looking more like a logarithm from a grade 11 math worksheet than anything else
+   3. https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp
