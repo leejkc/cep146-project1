@@ -1,0 +1,25 @@
+Applicability:
+1.	Codding Assistant:
+-	OpenAI models can understand programming languages just like natural language. They can generate, autocomplete, or refactor code in real time. This ability is widely used in tools like GitHub, Copilot or ChatGPT’s code features, where developers type a comment or description, and the AI writes the corresponding code.
+-	This makes development faster, reduces repetitive tasks, and helps developers focus more on logic and design instead of syntax.
+2.	Debugging and Code Review
+-	Instead of manually scanning long error logs or trying random fixes, developers can now paste their code or error message into ChatGPT and receive a human-like explanation of what’s going wrong — along with suggestions for how to fix it.
+-	These models can also review existing code, check for logic errors, and even suggest improvements to make the code cleaner or more efficient.
+3.	Learning and Education:
+-	They can explain difficult concepts, provide short lessons, and offer real examples in almost any programming language.
+-	For example, if a learner asks:  “What does the map() function in Python do?”
+	the model will not only define it but also give examples of how and when to use it.
+-	Because of this, many educators and students use tools like ChatGPT as an interactive companion to reinforce what they learn in class.
+4.	Industry Applications:
+-	OpenAI’s models have broader uses that go beyond just coding.
+-	For example, Whisper, OpenAI’s open-source speech recognition model, can transcribe voice commands into code or notes, enabling hands-free programming and better accessibility for developers with disabilities.
+-	CLIP, another OSS model, helps computers understand images and text together — useful for building intelligent tools that connect visual inputs with programming actions.
+-	These models demonstrate how OpenAI’s research influences not just coding, but entire fields of digital creativity, automation, and accessibility.
+ 
+OpenAI. (n.d.). Introducing Codex. https://openai.com/index/introducing-codex
+OpenAI. (n.d.). Codex — OpenAI Platform. https://platform.openai.com/docs/codex
+OpenAI. (n.d.). Whisper model. https://platform.openai.com/docs/models/whisper
+OpenAI. (n.d.). Introducing Whisper. https://openai.com/index/whisper/
+Wikipedia contributors. (n.d.). Contrastive Language–Image Pre-training (CLIP). Wikipedia. https://en.wikipedia.org/wiki/Contrastive_Language-Image_Pre-training
+Awan, A. A. (2025, May 7). Building fun projects with OpenAI Codex. KDnuggets. https://www.kdnuggets.com/building-fun-projects-with-openai-codex
+
